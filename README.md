@@ -17,7 +17,11 @@
 ## *Habilidades*
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## *GitHub Stats*
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardanogueira19&theme=transparent&bg_color=000&border_color=midnight-purple&show_icons=true&icon_color=midnight-puple&title_color=midnight-puple&text_color=FFF)
